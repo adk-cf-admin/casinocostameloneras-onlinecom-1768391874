@@ -1,0 +1,19 @@
+{
+  "name": "Gran Casino Costa Meloneras",
+  "short_name": "Gran Casino Costa Meloneras",
+  "theme_color": "",
+  "background_color": "#151515",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768388097-gran-casino-costa-meloneras-favicon-300x300.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

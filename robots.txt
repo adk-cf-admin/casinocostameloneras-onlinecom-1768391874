@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinocostameloneras-online.com/
+Sitemap: https://casinocostameloneras-online.com/sitemap.xml
